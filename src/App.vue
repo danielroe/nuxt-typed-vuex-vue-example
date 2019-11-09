@@ -14,7 +14,11 @@ import HelloWorld from './components/HelloWorld.vue';
     HelloWorld,
   },
 })
-export default class App extends Vue {}
+export default class App extends Vue {
+  mounted() {
+    this.$accessor.resetEmail();
+  }
+}
 </script>
 
 <style>
