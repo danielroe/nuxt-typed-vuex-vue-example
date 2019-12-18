@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import { useAccessor, mutationTree, actionTree } from 'nuxt-typed-vuex'
+import { useAccessor, mutationTree, actionTree } from 'typed-vuex'
 
 import * as submodule from './submodule'
 

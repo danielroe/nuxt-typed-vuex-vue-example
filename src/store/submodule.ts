@@ -1,4 +1,4 @@
-import { getterTree, mutationTree, actionTree } from 'nuxt-typed-vuex'
+import { getterTree, mutationTree, actionTree } from 'typed-vuex'
 
 import { accessor } from '.'
 
