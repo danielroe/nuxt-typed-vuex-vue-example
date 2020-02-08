@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.5.0",
-    "typed-vuex": "0.1.15",
+    "typed-vuex": "0.1.16",
     "vue": "^2.6.11",
     "vue-class-component": "^7.0.2",
     "vue-property-decorator": "^8.3.0",

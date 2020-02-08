@@ -7969,10 +7969,10 @@ type-is@~1.6.17, type-is@~1.6.18:
     media-typer "0.3.0"
     mime-types "~2.1.24"
 
-typed-vuex@0.1.15:
-  version "0.1.15"
-  resolved "https://registry.yarnpkg.com/typed-vuex/-/typed-vuex-0.1.15.tgz#8f4f52e82bcbb50f29190b2593123d91d049d0a5"
-  integrity sha512-CcdtSba/3tBQL3XqTeBmyKfstp/QlQtGVEhwB4oqevZpigcNDg/PRBUY1DxhQAjO52QaLqx8xxQXUKzDe9yeTw==
+typed-vuex@0.1.16:
+  version "0.1.16"
+  resolved "https://registry.yarnpkg.com/typed-vuex/-/typed-vuex-0.1.16.tgz#7b11c4ebda8b895f0af21b74a128d1a37b733f4e"
+  integrity sha512-C85/RmJPumbXwVW1+dcA0S2jwK3c1WPhr/z8Bp+csEM6nh3WOiLLtvIhiHeWqP0wMx0Ff1Sb1ZZNAW+a2aUuvQ==
   dependencies:
     vuex "^3.0.0"
 
