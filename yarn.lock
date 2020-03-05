@@ -8098,12 +8098,10 @@ type-is@~1.6.17, type-is@~1.6.18:
     media-typer "0.3.0"
     mime-types "~2.1.24"
 
-typed-vuex@0.1.16:
-  version "0.1.16"
-  resolved "https://registry.yarnpkg.com/typed-vuex/-/typed-vuex-0.1.16.tgz#7b11c4ebda8b895f0af21b74a128d1a37b733f4e"
-  integrity sha512-C85/RmJPumbXwVW1+dcA0S2jwK3c1WPhr/z8Bp+csEM6nh3WOiLLtvIhiHeWqP0wMx0Ff1Sb1ZZNAW+a2aUuvQ==
-  dependencies:
-    vuex "^3.0.0"
+typed-vuex@0.1.17:
+  version "0.1.17"
+  resolved "https://registry.yarnpkg.com/typed-vuex/-/typed-vuex-0.1.17.tgz#9b49332fad2020414d9c36da9846dbeeb1c7bf7f"
+  integrity sha512-1I99KzXg2k8zPnDkhJfdjv74pEx2OnB2CkSQQaOB98XqLlskRLjS7H4XvwguTii60WOBiZZdtkRz9QRviw8I7Q==
 
 typedarray@^0.0.6:
   version "0.0.6"
@@ -8405,7 +8403,7 @@ vue@^2.6.11:
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
   integrity sha512-VfPwgcGABbGAue9+sfrD4PuwFar7gPb1yl1UK1MwXoQPAw0BKSqWfoYCT/ThFrdEVWoI51dBuyCoiNU9bZDZxQ==
 
-vuex@^3.0.0, vuex@^3.1.2:
+vuex@^3.1.2:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/vuex/-/vuex-3.1.2.tgz#a2863f4005aa73f2587e55c3fadf3f01f69c7d4d"
   integrity sha512-ha3jNLJqNhhrAemDXcmMJMKf1Zu4sybMPr9KxJIuOpVcsDQlTBYLLladav2U+g1AvdYDG5Gs0xBTb0M5pXXYFQ==
