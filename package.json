@@ -26,7 +26,7 @@
     "@vue/eslint-config-typescript": "5.0.2",
     "eslint": "7.0.0",
     "eslint-plugin-vue": "6.2.2",
-    "typescript": "3.8.3",
+    "typescript": "3.9.2",
     "vue-template-compiler": "2.6.11"
   },
   "resolutions": {
